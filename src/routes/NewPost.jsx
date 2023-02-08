@@ -3,7 +3,7 @@ import React from "react";
 export const NewPost = () => {
   return (
     <>
-      NewPost
+      <h1>NewPost</h1>
     </>
   )
 }
